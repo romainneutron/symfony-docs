@@ -97,7 +97,7 @@ Symfony contributions:
 
 * **Bernhard Schussek** (`webmozart`_);
 * **Abdellatif AitBoudad** (`aitboudad`_);
-* **Romain Neutron**;
+* **Romain Neutron** (`romainneutron`);
 * **Jordi Boggiano** (`Seldaek`_).
 
 Core Membership Application
